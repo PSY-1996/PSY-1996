@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Prashantsharma
-- 👀 I’m interested in to learn new things which help me to grow in my career
+- 👀 I’m interested in to learn new things which helps me to grow in my career
 - 🌱 I’m currently learning Data Analytics
 
 <!---
